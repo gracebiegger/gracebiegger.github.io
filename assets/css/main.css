@@ -2903,13 +2903,18 @@
 	/* Future */
 
 	#future {
-		background: url("images/overlay.png"), url("../../images/two.jpg");
+		background: url("images/overlay.png"), url("../../images/future.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
 	}
 #learn {
-		
+
+		background: url("images/overlay.png"), url("../../images/whatilearned.jpg");
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+
 	}
 
 /* Work */
