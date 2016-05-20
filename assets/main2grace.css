@@ -1,12 +1,55 @@
-h2 {
-	color:#BF9FE0;
-}
+
 #logo{
-	color:#BF9FE0;
+	color:#338A84;
 
 }
 
 #nav a:hover{
 
-	color:#BF9FE0;
+	color:#338A84;
 }
+
+#hello{
+	color:#338A84;
+}
+#dos{
+	color:#DE47A7
+}
+
+#tres{
+	color:#C472CF;
+}
+#cuatro{
+	color:#F77C00;
+}
+#cinco{
+	color:#CF5D5D;
+}
+#seis{
+	color:#787FDE;
+}
+.secondpage{
+	color:#DE47A7;
+}
+.thirdpage{
+	color:#C472CF;
+}
+.fourthpage{
+	color:#F77C00;
+}
+.fifthpage{
+	color:#CF5D5D;
+;
+}
+#essentialquestion{
+	font-family:'Source Sans Pro', sans-serif;
+	font-size:32px;
+}	
+
+#introwords{
+	font-size:22px;
+}
+
+
+
+
