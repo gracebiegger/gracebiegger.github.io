@@ -26,7 +26,7 @@
 	color:#CF5D5D;
 }
 #seis{
-	color:#609150;
+	color:#7F98A1;
 }
 .secondpage{
 	color:#DE47A7;
@@ -50,10 +50,14 @@
 	font-size:22px;
 }
 #footer{
-	background:#9F80C4;
+	background:#615873;
 }
 
-
+#pic6, #pic1, #pic2, #pic3, #pic4, #pic5{
+	height:600px;
+	width:450px;
+	border:black solid 15px;
+	
 
 
 
