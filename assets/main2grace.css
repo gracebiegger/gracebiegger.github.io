@@ -11,9 +11,11 @@
 
 #hello{
 	color:#white;
+	 text-shadow: 2px 2px #750975;
+	 line-height:1.4;
 }
 #dos{
-	color:#DE47A7
+	color:#CC2991;
 }
 
 #tres{
@@ -29,25 +31,33 @@
 	color:#191F21;
 }
 .secondpage{
-	color:#DE47A7;
+	color:#CC2991;
+	line-height:2;
+	line-height:2;
 }
 .thirdpage{
 	color:#899FAD;
+	line-height:2;
 }
 .fourthpage{
 	color:#F77C00;
+	line-height:2;
 }
 .fifthpage{
 	color:#CF5D5D;
-
+	line-height:2;
 }
 #essentialquestion{
 	font-family:'Source Sans Pro', sans-serif;
 	font-size:32px;
+	 text-shadow: 2px 2px #750975;
+	 line-height:1.4;
 }	
 
 #introwords{
-	font-size:22px;
+	 text-shadow: 2px 2px #750975;
+	font-size:50px;
+	line-height:1.4;
 }
 #footer{
 	background:#615873;
@@ -56,8 +66,8 @@
 #pic6, #pic1, #pic2, #pic3, #pic4, #pic5{
 	height:600px;
 	width:450px;
-	
-	
+}
+
 
 
 
